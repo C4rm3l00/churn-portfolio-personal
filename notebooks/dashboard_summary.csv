@@ -1,0 +1,5 @@
+,tenure,tenure,MonthlyCharges,MonthlyCharges,TotalCharges,TotalCharges
+,mean,median,mean,median,mean,median
+Churn,,,,,,
+Churned,30.75243664717349,28.0,76.70479044834309,77.3,2370.279171539961,1907.94
+Stayed,39.424694708276796,41.0,75.25276797829036,75.105,2976.1659260515603,2727.2200000000003
